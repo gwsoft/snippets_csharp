@@ -12,7 +12,7 @@ namespace ConsoleApplications
         {
             RandomSignal();
         }
-        
+
         private static void RandomSignal()
         {
             // Generate random number
